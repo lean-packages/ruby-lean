@@ -1,0 +1,16 @@
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/internal/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+.bundle/
+vendor/bundle/
+.DS_Store
+.idea/
+.vscode/
